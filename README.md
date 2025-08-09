@@ -1,4 +1,4 @@
 # GitHub-demo
 This is my first Git Repository.
 <br>
-Author- Sai Koundinya
+Author- Sai Koundinya (Veluri)
